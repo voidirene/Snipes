@@ -14,6 +14,11 @@
 		{
 			"Name": "GameplayStateTree",
 			"Enabled": true
+		},
+		{
+			"Name": "LineOfSight",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/564592e6f64e47a9a2401e5216ae4738"
 		}
 	]
 }
